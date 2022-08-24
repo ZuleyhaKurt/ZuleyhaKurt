@@ -1,6 +1,6 @@
 👋Hi, everyone..
 
-💁‍♀️I'm intersted in Web Developer.
+💁‍♀️I'm interested in Web Development.
 
 🎈I'm learning HTML,CSS,BOOTSRAP,JS ,REACT ...
 
