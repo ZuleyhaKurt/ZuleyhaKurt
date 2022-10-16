@@ -41,8 +41,11 @@
 <h1 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> GitHub Stats:</h1>
 <p align="left" dir="auto">
 
-. <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&theme=radical" style="width:50%;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&theme=radical" style="width:50%;">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p> -->
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edbce04f7467b8bb53986c2aa3afc06e71444c5f9a8889b5b4136706cb7b4701/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d757374616661424b4c5a266c61796f75743d636f6d70616374267468656d653d6461726b"><img src="https://camo.githubusercontent.com/edbce04f7467b8bb53986c2aa3afc06e71444c5f9a8889b5b4136706cb7b4701/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d757374616661424b4c5a266c61796f75743d636f6d70616374267468656d653d6461726b" width="500" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&amp;layout=compact&amp;theme=dark" style="max-width: 50%;"></a>
+
+
 </p>
-
-
