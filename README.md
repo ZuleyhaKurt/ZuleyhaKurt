@@ -25,5 +25,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=ff0000&bg_color=151515" style="max-width:100px;"> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
