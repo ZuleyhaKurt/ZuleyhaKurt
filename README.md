@@ -42,5 +42,6 @@
 <p align="left" dir="auto">
 
 .<img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&theme=radical" style="width:50%; height:140px;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
