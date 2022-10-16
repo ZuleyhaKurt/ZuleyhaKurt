@@ -1,6 +1,7 @@
 👋Hi, everyone.. <br>
 💁‍♀️I'm interested in Web Development. <br>
 🎈I'm learning HTML,CSS,BOOTSRAP,JS ,REACT ... <br>
+<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> You can show some   <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>by starring some of the repositories
 🎨You can reach me : <br>
 <a href="https://www.linkedin.com/in/zuleyha-kurt">
 <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -29,5 +30,3 @@
 
 
 
-
-<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08c8ab9fe8f677232f833ea779afcc094d4fcd157d7606c9efed876b18822e3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d49736d61696c2d41736c616e267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/08c8ab9fe8f677232f833ea779afcc094d4fcd157d7606c9efed876b18822e3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d49736d61696c2d41736c616e267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374" alt="languages" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&amp;theme=chartreuse-dark&amp;layout=compact" style="max-width: 100%;"></a> -->
