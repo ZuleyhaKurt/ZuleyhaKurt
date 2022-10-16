@@ -8,8 +8,15 @@
  
  <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=ff0000&bg_color=151515" style="max-width:100px;">
 
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b6d73b16eeb89a9bee93b7c0fe1822c16e5803092fe324d4266bd15d63f9d9d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616c696c6962726168696d64656d697263616e266c61796f75743d636f6d70616374267468656d653d6d65726b6f"><img align="center" src="https://camo.githubusercontent.com/6b6d73b16eeb89a9bee93b7c0fe1822c16e5803092fe324d4266bd15d63f9d9d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616c696c6962726168696d64656d697263616e266c61796f75743d636f6d70616374267468656d653d6d65726b6f" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&amp;layout=compact&amp;theme=merko" style="max-width: 100%;"></a>
+
 <img src="https://raw.githubusercontent.com/Ismail-Aslan/Ismail-Aslan/main/ss.png">
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b037cc456a6bcea6ba3b0153f5b400677990c0d5d06224339471073225390bea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616c696c6962726168696d64656d697263616e"><img src="https://camo.githubusercontent.com/b037cc456a6bcea6ba3b0153f5b400677990c0d5d06224339471073225390bea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616c696c6962726168696d64656d697263616e" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=ZuleyhaKurt" style="max-width: 100%;"></a>
 <br></p>
+
+
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b6d73b16eeb89a9bee93b7c0fe1822c16e5803092fe324d4266bd15d63f9d9d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616c696c6962726168696d64656d697263616e266c61796f75743d636f6d70616374267468656d653d6d65726b6f"><img align="center" src="https://camo.githubusercontent.com/6b6d73b16eeb89a9bee93b7c0fe1822c16e5803092fe324d4266bd15d63f9d9d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616c696c6962726168696d64656d697263616e266c61796f75743d636f6d70616374267468656d653d6d65726b6f" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&amp;layout=compact&amp;theme=merko" style="max-width: 100%;"></a>
