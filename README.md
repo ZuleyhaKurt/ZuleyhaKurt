@@ -15,12 +15,9 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b037cc456a6bcea6ba3b0153f5b400677990c0d5d06224339471073225390bea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616c696c6962726168696d64656d697263616e"><img src="https://camo.githubusercontent.com/b037cc456a6bcea6ba3b0153f5b400677990c0d5d06224339471073225390bea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616c696c6962726168696d64656d697263616e" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=ZuleyhaKurt" style="max-width: 100%;"></a>
 <br></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZuleyhaKurt&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=ff0000&bg_color=151515" style="max-width:100px;">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19eaeb7850d6fdc5ba00781da6891e20e3ec63fc7b99532db489ec60461c81e1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d48303263346e267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/19eaeb7850d6fdc5ba00781da6891e20e3ec63fc7b99532db489ec60461c81e1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d48303263346e267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ZuleyhaKurt&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZuleyhaKurt&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
