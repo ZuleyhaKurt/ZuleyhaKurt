@@ -24,6 +24,4 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23c7e423b98448edce000b334b34a1b538be801405761bb9b3f662b925759a5b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d48303263346e267468656d653d67727576626f78266e6f2d6672616d653d74727565266e6f2d62673d66616c7365266d617267696e2d773d34"><img src="https://camo.githubusercontent.com/23c7e423b98448edce000b334b34a1b538be801405761bb9b3f662b925759a5b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d48303263346e267468656d653d67727576626f78266e6f2d6672616d653d74727565266e6f2d62673d66616c7365266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=zuleyhaKurt&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" style="max-width: 100%;"></a>
 
-
-
-https://github-profile-trophy.vercel.app/?username=ZuleyhaKurt&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZuleyhaKurt)](https://github.com/ryo-ma/github-profile-trophy)
