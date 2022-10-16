@@ -20,9 +20,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZuleyhaKurt&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> GitHub Stats:</h1>
-
+<p align="left" dir="auto">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&count_private=true&show_icons=true&theme=radical)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=ff0000&bg_color=151515" style="max-width:100px;"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08c8ab9fe8f677232f833ea779afcc094d4fcd157d7606c9efed876b18822e3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d49736d61696c2d41736c616e267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/08c8ab9fe8f677232f833ea779afcc094d4fcd157d7606c9efed876b18822e3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d49736d61696c2d41736c616e267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374" alt="languages" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&amp;theme=chartreuse-dark&amp;layout=compact" style="max-width: 100%;"></a> -->
