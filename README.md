@@ -42,10 +42,8 @@
 <p align="left" dir="auto">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZuleyhaKurt&&show_icons=true&theme=radical" style="width:50%;">
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p> -->
-
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edbce04f7467b8bb53986c2aa3afc06e71444c5f9a8889b5b4136706cb7b4701/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d757374616661424b4c5a266c61796f75743d636f6d70616374267468656d653d6461726b"><img src="https://camo.githubusercontent.com/edbce04f7467b8bb53986c2aa3afc06e71444c5f9a8889b5b4136706cb7b4701/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d757374616661424b4c5a266c61796f75743d636f6d70616374267468656d653d6461726b"  data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&amp;layout=compact&amp;theme=dark" style="width:50%;"></a>
 
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuleyhaKurt&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p> -->
 </p>
